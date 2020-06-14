@@ -443,7 +443,7 @@ button:focus {
 }
 
 .home_banner_area .banner_inner .overlay {
-  background: url(../img/banner/home-banner.jpg) no-repeat scroll center center;
+  background: linear-gradient(rgba(255,255,255,0), rgba(255,255,255,.7)), url(../img/banner/home-banner.jpg);
   position: absolute;
   left: 0;
   right: 0;
@@ -4146,7 +4146,7 @@ h6 {
   padding-top: 120px;
 }
 
-.footer-area-portfolio {
+.footer-area-short {
   background: #222222;
 }
 

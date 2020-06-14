@@ -10,7 +10,7 @@
 		width: 100%;
 		min-height: 800px;
 		.overlay{
-			background: url(../img/banner/home-banner.jpg) no-repeat scroll center center;
+			background: linear-gradient(rgba(255,255,255,0), rgba(255,255,255,.7)), url(../img/banner/home-banner.jpg);
 			position: absolute;
 			left: 0;
 			right: 0;
