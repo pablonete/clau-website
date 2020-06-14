@@ -584,6 +584,10 @@ button:focus {
   font-weight: 500;
 }
 
+.banner_area .banner_inner .banner_content p {
+  color: #fff;
+}
+
 .banner_area .banner_inner .banner_content .page_link a {
   font-size: 14px;
   color: #fff;
@@ -4140,6 +4144,10 @@ h6 {
 .footer-area {
   background: #222222;
   padding-top: 120px;
+}
+
+.footer-area-portfolio {
+  background: #222222;
 }
 
 .single-footer-widget p {
